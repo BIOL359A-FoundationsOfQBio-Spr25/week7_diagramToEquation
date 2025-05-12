@@ -1,2 +1,2 @@
-# week7_modelselection
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BIOL359A-FoundationsOfQBio-Spr24/week7_modelselection/blob/main/modelselection.ipynb)
+# week7_diagramToEquation
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BIOL359A-FoundationsOfQBio-Spr25/week7_diagramToEquation/blob/main/diagramtoequation.ipynb)
